@@ -17,5 +17,4 @@ Les fichiers de tests permettront le bon fonctionnement du code.
 
 // Ligne de commande pour lancer les test
 
-npm ci
 npm test
